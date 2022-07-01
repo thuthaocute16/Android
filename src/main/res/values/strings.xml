@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Phoenix</string>
+    <string name="version">Version</string>
+    <string name="downloading">Downloading ...</string>
+    <string name="find_your_food">Find Your Food</string>
+    <string name="collection">Collection</string>
+
+    <string name="facebook_app_id">520678223112332</string>
+    <string name="fb_login_protocol_scheme">fb520678223112332</string>
+    <string name="facebook_client_token">5d9089a162f9286b6b3d1027f2bbc84a</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="distance">2 Km</string>
+    <string name="cart_detail">Cart Detail</string>
+    <string name="todo2">TODO</string>
+    <string name="cart_detail_1">Cart Detail</string>
+    <string name="save">Save</string>
+    <string name="all_cart">All Cart</string>
+    <string name="all_price">All Price</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
